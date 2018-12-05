@@ -14,10 +14,10 @@
         tools:layout_editor_absoluteY="8dp"
         tools:ignore="MissingConstraints">
 
-        <android.support.design.widget.TabItem
+         <!--<android.support.design.widget.TabItem
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/map" />
+            android:text="@string/map" /> -->
 
         <android.support.design.widget.TabItem
             android:layout_width="wrap_content"
