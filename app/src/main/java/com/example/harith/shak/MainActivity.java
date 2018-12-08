@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             public void onTabSelected(TabLayout.Tab tab) {
                 viewPager.setCurrentItem(tab.getPosition());
                 Toast.makeText(MainActivity.this, "" + tab.getPosition(), Toast.LENGTH_SHORT).show();
-                if (tab.getPosition() == 2) {
+                if (tab.getPosition() == 1) {
                     volleyreguest();
                 }
         }
